@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: rgb(195, 219, 238);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+div.recipes {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+   }
+
+
+ul.recipesUl {
+    display: inline-block;
+    text-align: left;
+}
