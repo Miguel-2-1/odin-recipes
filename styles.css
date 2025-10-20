@@ -15,10 +15,10 @@ div.recipes {
 
 ul.recipesUl {
     display: inline-block;
-    text-align: left;
+    text-align: left
 }
 
 img {
-    max-width: 50%;   
-    height: 50%;
+    max-width: auto;
+    height: auto;
 }
